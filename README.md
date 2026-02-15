@@ -49,6 +49,7 @@ This project was developed as a **Freelance Commission**. The goal was to build 
 
 - `notebooks/`: Contains the core logic file `Fuzzy Trading.ipynb`.
 - `datasets/`: Historical `.csv` datasets for BBCA, BBRI, BMRI, and BBNI.
+- `docs/`: Technical documentation and analysis report.
 
 ## My Role
 
